@@ -4,7 +4,7 @@ Chaos Awakens is a remaster of both the very iconic mod [OreSpawn](https://www.o
 ## Download
 You can download the mod at our website, which is located [here](https://chaosawakens.github.io/). The source code for our website is located [here](https://github.com/ChaosAwakens/chaosawakens.github.io)
 
-You can also download the mod on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chaos-awakens), or on [Modirinth](https://modrinth.com/mod/chaos-awakens).
+You can also download the mod on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chaos-awakens), or on [Modrinth](https://modrinth.com/mod/chaos-awakens).
 
 
 ### Required Dependencies
